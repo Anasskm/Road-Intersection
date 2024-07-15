@@ -1,0 +1,9 @@
+[package]
+name = "road_intersection"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+sdl2 = "*"
+rand = "*"
